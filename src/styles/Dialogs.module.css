@@ -1,0 +1,15 @@
+.dialogsSection {
+  display: grid;
+  grid-template-columns: 2fr 10fr;
+  background-color: bisque;
+}
+.dialogs {
+  padding: 10px;
+}
+.item {
+}
+.messages {
+  padding: 10px;
+}
+.message {
+}

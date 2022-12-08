@@ -1,0 +1,10 @@
+.postBlock {
+  padding: 15px;
+}
+textarea {
+  display: block;
+  margin-bottom: 10px;
+}
+.posts {
+  margin-top: 10px;
+}
